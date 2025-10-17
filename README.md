@@ -1,11 +1,15 @@
-## Hey, I'm Jiyon👋
-- A mechanical engineer with a specialisation in energy engineering and management. 
-- I’m currently working on adapting AI for energy engineering systems - [AITfES Prototype](https://aitfes.vercel.app)
-<br>
-<br>
-Reach me through Email       <a href="mailto:jiyonpj2501@gmail.com" target="_blank"><img width=18 src="https://skillicons.dev/icons?i=gmail&theme=light" /></a> or connect via LinkedIn     :  <a href="https://linkedin.com/in/jiyon" target="_blank"> <img width=18 src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
+## Hey, I'm Jiyon 👋
 
-#### Some tools I used and languages spoken in the never ending journey to code
+<div align="center">
+<a href="mailto:jiyonpj2501@gmail.com" target="_blank"><img width=30 src="https://skillicons.dev/icons?i=gmail&theme=light" /></a> &nbsp;
+<a href="https://linkedin.com/in/jiyon" target="_blank"> <img width=30 src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
+</div>
+
+- A mechanical engineer with a specialisation in energy engineering and management. 
+- I’m currently working on adapting AI for energy engineering systems
+> Prototype : [AITfES - AI Troubleshooting for Energy Systems](https://aitfes.vercel.app)
+
+#### Some tools I used and languages spoken in the never ending journey of code
 <br>
 <div align="center">
   <p align="center">
