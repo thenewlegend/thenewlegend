@@ -26,3 +26,7 @@
       <img align=top height=150 alt="github-snake" src="https://raw.githubusercontent.com/thenewlegend/thenewlegend/output/github-contribution-grid-snake.svg" />
     </picture>
   </div>
+
+
+> Past Obsessions : [KRYKARD Data Selection Tool
+](https://github.com/thenewlegend/KRYKARD-Data-Selection-Tool?tab=readme-ov-file#a-simple-tool-to-extract-data-from-krykard-data-files)
