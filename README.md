@@ -6,7 +6,7 @@
 </div>
 
 
-- A mechanical engineer with a specialisation in energy engineering and management. 
+- A mechanical engineer with a specialisation in energy engineering and management 
 - I’m currently working on adapting AI for energy engineering systems
 > Prototype :
 >  - [AITfES - AI Troubleshooting for Energy Systems](https://aitfes.vercel.app)
