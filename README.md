@@ -1,8 +1,6 @@
 ## I'm Jiyon
-A mechanical engineer with a specialisation in energy engineering and management.
-
--  I’m currently working on integrating AI to energy systems.
--  Pronouns: he/him
+A mechanical engineer with a specialisation in energy engineering and management. I’m currently working on integrating AI to energy systems
+- [[AITfES Prototype](https://aitfes.vercel.app)].
 
   <div align="center">
     <a href="mailto:jiyonpj2501@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
