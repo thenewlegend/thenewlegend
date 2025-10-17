@@ -1,6 +1,6 @@
 ## I'm Jiyon
-A mechanical engineer with a specialisation in energy engineering and management. I’m currently working on integrating AI to energy systems
-- [AITfES Prototype](https://aitfes.vercel.app)
+- A mechanical engineer with a specialisation in energy engineering and management. 
+- I’m currently working on integrating AI to energy systems - [AITfES Prototype](https://aitfes.vercel.app)
 
   <div align="center">
     <a href="mailto:jiyonpj2501@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
@@ -17,3 +17,13 @@ A mechanical engineer with a specialisation in energy engineering and management
     </picture>
   </div>
 
+  
+#### Some Tools I Have Used and Learned
+<br>
+<div align="center">
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=git,html,js,css,python,svelte,bash,cpp,md,npm,powershell,ts" />
+  <img src="https://skillicons.dev/icons?i=github,matlab,autocad,blender,codepen,netlify,nodejs,notion,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=obsidian,ps,pycharm,qt,stackoverflow,supabase,vscodium" />
+  </p>
+</div>
