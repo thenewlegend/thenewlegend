@@ -1,6 +1,6 @@
 ## Hey, I'm Jiyon👋
 - A mechanical engineer with a specialisation in energy engineering and management. 
-- I’m currently working on AI to energy systems - [AITfES Prototype](https://aitfes.vercel.app)
+- I’m currently working on adapting AI for energy engineering systems - [AITfES Prototype](https://aitfes.vercel.app)
 <br>
 <br>
 Reach me through Email       <a href="mailto:jiyonpj2501@gmail.com" target="_blank"><img width=18 src="https://skillicons.dev/icons?i=gmail&theme=light" /></a> or connect via LinkedIn     :  <a href="https://linkedin.com/in/jiyon" target="_blank"> <img width=18 src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
