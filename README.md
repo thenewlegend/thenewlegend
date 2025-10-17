@@ -12,6 +12,15 @@
   </div>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Dreams are the scond life we never knew we had.
+  
+<hr>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenewlegend/thenewlegend/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thenewlegend/thenewlegend/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/thenewlegend/thenewlegend/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <hr>
 <div align="center"> 
