@@ -30,8 +30,3 @@
 </div>
   <br>
   <br>
-  
-> Blast from the past :
-> - [KRYKARD Data Selection Tool
-](https://github.com/thenewlegend/KRYKARD-Data-Selection-Tool?tab=readme-ov-file#a-simple-tool-to-extract-data-from-krykard-data-files)
-> - [Jia Maria - Personal Website](https://github.com/thenewlegend/jiamaria)
