@@ -3,6 +3,8 @@
 <div align="center">
 <a href="mailto:jiyonpj2501@gmail.com" target="_blank"><img width=30 src="https://skillicons.dev/icons?i=gmail&theme=light" /></a> &nbsp;
 <a href="https://linkedin.com/in/jiyon" target="_blank"> <img width=30 src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
+<a href="https://huggingface.co/thenewlegend" target="_blank"> <img width=30 src="https://i.postimg.cc/sfHn3dcc/hf-logo.png"/></a>
+ 
 </div>
 
 
